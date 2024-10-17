@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<preferences autoStart="true" interval="Hourly" notificationTypes="INFO_NOTIFICATION_E NEW_SW_NOTIFICATION_E ALERT_NOTIFICATION_E UPDATE_NOTIFICATION_E">
+    <lastCheckedForNotification>2024-09-12T12:28:37.838-07:00</lastCheckedForNotification>
+</preferences>
